@@ -1,3 +1,2 @@
-hello world
-i am dzm
-the best wishes for you 
+Git is a distributed version control system.
+Git is free software distributed under the GPL.
